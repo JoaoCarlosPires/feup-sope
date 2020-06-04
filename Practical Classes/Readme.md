@@ -6,7 +6,7 @@
 
 1, 2, 3, 4, 5
 
-## Exercises To Do
+### Exercises To Do
 
 6, 7, 8, 9, 10
 
@@ -16,7 +16,7 @@
 
 1, 2, 3
 
-## Exercises To Do
+### Exercises To Do
 
 4, 5, 6
 
@@ -26,7 +26,7 @@
 
 1, 2, 3, 4, 5
 
-## Exercises To Do
+### Exercises To Do
 
 6, 7, 8, 9, 10, 11, 12
 
@@ -36,7 +36,7 @@
 
 1
 
-## Exercises To Do
+### Exercises To Do
 
 2, 3, 4, 5, 6, 7
 
@@ -46,7 +46,7 @@
 
 1, 2
 
-## Exercises To Do
+### Exercises To Do
 
 3, 4, 5, 6, 7, 8, 9
 
@@ -56,7 +56,7 @@
 
 1, 2
 
-## Exercises To Do
+### Exercises To Do
 
 3, 4, 5, 6, 7, 8, 9, 10
 
@@ -66,6 +66,6 @@
 
 1, 5
 
-## Exercises To Do
+### Exercises To Do
 
 2, 3, 4, 6, 7, 8
